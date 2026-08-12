@@ -57,9 +57,6 @@ pyinstaller --onefile --windowed Data_Analyzer.py
 
 The executable will be created in the `dist/` folder.
 
-## Screenshot
-
-*(Add a screenshot of the running app here — e.g. `screenshot.png` — and reference it with `![Corporate Data Analyzer](screenshot.png)`)*
 
 ## Notes
 
